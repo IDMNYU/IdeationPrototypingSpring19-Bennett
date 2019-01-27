@@ -10,6 +10,7 @@ Context and discussion of each assignment is addressed within the assigned modul
 * [Care Package](Care_Package.md)
 * [Input Map](input_map.md)
 * [Constant Input/Output Map](constant_i_o.md)
+* [Classmate Discovery](classmate_discovery.md)
 * [Process Website](process_website.md)
 * [Love Letter or Breakup Letter](letter.md)
 * [Narrative Timeline](narrative_timeline.md)
