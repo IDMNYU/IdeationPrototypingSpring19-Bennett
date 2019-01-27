@@ -152,15 +152,15 @@ There will be discrete team and individual exercises and projects that require y
  
 ##### Quantitative Grading Overview
 
-   *   2% [Input Map](input_map.md)
-*   2% [Love Letter or Breakup Letter](letter.md)
-   *   4% [Object Evolution Timeline](narrative_timeline.md)
+*   2% Maps [input](input_map.md),[Constant Input/Output Map](constant_i_o.md),[Classmate Discovery](classmate_discovery.md)
+*   2% [Love Letter or Breakup Letter](letter.md) & [Care Package](Care_Package.md)
+*   4% [Time Management System](time_management_system.md)
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
-*   12% [Constant Input Choices](constant_input_choices.md)
-*   14% [Process Website](process_website.md)
-*   20% [Future Dystopia / Utopia Project](future.md)
-   *   31% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+*   12% [Constant Input/Output](constant_input_output.md)
+*   15% [Process Website](process_website.md), including all written reflections
+*   25% [Future Dystopia / Utopia Project](future.md)
+*   25% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 ##### Qualitative Grading Overview
 

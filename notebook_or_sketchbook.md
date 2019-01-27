@@ -6,3 +6,8 @@
 Acquire some kind of bound notebook or sketchbook to collect ideas, questions, loves, hates, inspiration, drawings, photos, visual and textual scraps, ephemera, fragments, imprints, rubbings, stains, odds and ends. Choose a notebook that is small enough that you will most likely keep with you (eg. pocket-sized or slightly larger) and use. Make it your own with stickers, markers, paint, collage, whatever. Carry this notebook with you at all times (as well as something to write with and a gluestick or tape) and use it often.
 
 You will document your analog notebook on a weekly basis through photos or videos posted to your process site. 
+
+
+Read:
+<li> Read: <a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. </a></li>
+<li><a href = "https://alistapart.com/article/the-miseducation-of-the-doodle">Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. </a></li>
