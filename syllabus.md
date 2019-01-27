@@ -244,18 +244,21 @@ Context and discussion of each assignment is addressed within the assigned modul
 
 
 #### Projects
-* [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
-* [Future Dystopia / Utopia Project](future.md)
+* MidTerm TBD
+* [Final Project](future.md)
 
 #### Assignments
-* [Constant Input/Output Choices](constant_input_choices.md)
-  * [Personal Inventory](personal_inventory.md)
-  * [Input Map](input_map.md)
+* [Constant Input/Output](constant_input_output.md)
+* [Constant Input/Output Map](constant_i_o.md)
+* [Care Package](Care_Package.md)
+* [Input Map](input_map.md)
+* [Constant Input/Output Map](constant_i_o.md)
 * [Process Website](process_website.md)
-  * [Love Letter or Breakup Letter](letter.md)
-  * [Object Evolution Timeline](evolution_timeline.md)
+* [Love Letter or Breakup Letter](letter.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
+* [Time Management System](time_management_system.md)
+* [Book Reflections: Show Your Work & Don't Read This Book](Book_Reflections.md)
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix

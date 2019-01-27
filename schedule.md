@@ -41,10 +41,9 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack <strong>channel "studentsites" </strong> </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
     <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a> and <a href = "https://www.amazon.com/Dont-Read-This-Book-Management/dp/9063694237/ref=sr_1_1?s=books&ie=UTF8&qid=1548300839&sr=1-1&keywords=Don%27t+Read+This+Book%3A+Time+Management+for+Creative+People+by+Donald+Roos"> Don't Read This Book: Time Management for Creative People by Donald Roos </a></li>
-    <li>
+     <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website.</li> 
+    <li><a href="constant_i_o.md">Constant Input/Output Maps</a></li>
     <li> Start Reading - Show Your Work </li>
-    <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website.</li>
-    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website.</li>  
     <li> Post your sketchbook work to your Process site </li>
     </td>
 </tr>
@@ -53,22 +52,26 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
     <td valign="top">
     <strong> Last Day to drop is Feb 10 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
+    <li>   Discuss: </li>
     <ul>
-    Discuss: <br>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
     <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <li> 5 phases</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
     <li><a href="input_map.md">Input Maps</a></li>
-    <li><a href = "personal_inventory.md">Personal Inventories</li> </a> 
+    <li><a href = "Care_Package.md">Care Packages</li></a> 
+    <li><a href="constant_i_o.md">Constant Input/Output Maps</a></li>
+    <li> Review "Interviews" in <a href = "http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit (available free online </a>
     </ul>
+    <li> Classmate Discovery Exercise</li>
     </td> 
     <td valign="top">
-    <li> <del><a href="classmate_discovery.md">Classmate Discovery</a></li> </del>
-     <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos. Post to your process website.</li>
+    <li> Read: "Interview" pg. 39 in  <a href = "http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit (available free online and pinned on slack)</a>
+    <li> <a href="classmate_discovery.md">Classmate Discovery</a></li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>   
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website.</li> 
      <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website.</li>
+     <li>Post your <a href= "constant_input_output.md">constant input/output</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website.</li>
     <li> Read - Show Your Work </li>
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     <li> Post your sketchbook work to your Process site </li>
@@ -181,7 +184,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong>Last Day to drop is April 5th. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
     <td valign="top">
     <ul>
-    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
+    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
       <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
     <li> Create each of the following with regard to the final project, and post to your process site under the heading/tag/page for your final project: Future:
