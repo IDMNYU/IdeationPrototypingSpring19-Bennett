@@ -14,4 +14,4 @@ Include audio narration or written commentary, using your smart phone or video c
 
 Be sure to include a short narration (written or audio) talking about what each item is and why you chose it.
 
-Post this narration and images of the *actual* items to your site, under "homework".
+Post this narration and images of the *actual* items to your site, under "homework" section.
