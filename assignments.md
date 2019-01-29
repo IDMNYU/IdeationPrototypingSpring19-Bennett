@@ -6,7 +6,6 @@
 Context and discussion of each assignment is addressed within the assigned modules. Make sure to read each module, so as to complete each assignment appropriately.
 
 * [Constant Input/Output](constant_input_output.md)
-* [Constant Input/Output Map](constant_i_o.md)
 * [Care Package](Care_Package.md)
 * [Input Map](input_map.md)
 * [Constant Input/Output Map](constant_i_o.md)

@@ -71,13 +71,14 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <li> Read: "Interview" pg. 39 in  <a href = "http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit (available free online and pinned on slack)</a>
     <li> <a href="classmate_discovery.md">Classmate Discovery</a></li> 
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>   
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website.</li> 
      <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website.</li>
+     <li><a href="PhotoDiary_problems.md"> Photo Diary</a></li>
      <li>Post your <a href= "constant_input_output.md">constant input/output</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website.</li>
      <li> Watch 3 of your classmates videos/posts for the Care Package assignment. (You may not choose the person from your Classmate Discover Assignment.) Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
     <li> Read - Show Your Work </li>
-    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
+    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     <li> Post your sketchbook work to your Process site </li>
     </td>
 </tr>
@@ -101,7 +102,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
      <li> mood board </li>
      <li> an image or text storyboard.</li>  </ul>
      <li>By next week, you should be half way through Show Your Work. If you aren't, get reading.</li>
-    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your sketchbook work to your Process site </li>
+    <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
 </td>
 </tr>
@@ -132,7 +133,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> Read - Show Your Work </li>
     <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li> </ul>
 </td>
 </tr>
 <tr>
@@ -141,7 +142,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <td>
     <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Iterate/Revise outline for the paper </li> 
     <li> Read - Show Your Work </li></ul>
 <li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li></ul>   
@@ -154,7 +155,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong> Phase 4: Prototyping </strong> <br> Review Homework</td>
     <td valign="top">
     <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details. Post to your process website.</li>
     <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul>
     <li>Collaboratively iterate hybrid animatic/video draft</li>
@@ -173,7 +174,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong> Phase 4: Prototyping </strong> <br>Review Homework</td>
     <td valign="top">
     <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively iterate and finalize hybrid animatic/video</li></ul>
     <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
@@ -207,7 +208,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
             </ul>
         </li>
         <li> Start Reading - Don't Read This Book </li>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li> Post your sketchbook work to your Process site </li> 
     <li><a href ="Time_Management_System.md">Time Management System</a></li>   
     </td>
@@ -224,7 +225,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Sketching and Mapping</li>
     <li>Secondary Research</li>
     </ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li>By next week, you should be half way finished reading - Don't Read This Book </li><li> Post your sketchbook work to your Process site </li></ul>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </td>
@@ -234,7 +235,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>  
     <td valign="top">  
     <ul>    
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
      <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
     <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
@@ -253,7 +254,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
         <ul>
         <li>Storyboard Revision</li>

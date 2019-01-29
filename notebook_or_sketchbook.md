@@ -9,5 +9,5 @@ You will document your analog notebook on a weekly basis through photos or video
 
 
 Read:
-<li> Read: <a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. </a></li>
+<li><a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. </a></li>
 <li><a href = "https://alistapart.com/article/the-miseducation-of-the-doodle">Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. </a></li>
