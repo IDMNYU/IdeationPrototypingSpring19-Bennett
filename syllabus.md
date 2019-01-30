@@ -8,6 +8,8 @@
 
 #### Course Management Site: https://ideationproto-vrg5542.slack.com/home
 
+#### [join slack here initially](https://join.slack.com/t/ideationproto-vrg5542/shared_invite/enQtNTMxNTQxMjY5NDI3LTM5ZjU2MGY1YjdmYmI1Njk0MTRmNmUwZDAzNDQ5ZjVjYTI4OWY1YjhkZDU4ODY0M2U3OTUwNzhkNGJlYjk0MzY)
+
 ---
 _&quot;I have no special talents. I am only passionately curious.&quot;_
 
