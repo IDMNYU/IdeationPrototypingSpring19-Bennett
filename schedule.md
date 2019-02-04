@@ -70,11 +70,11 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td> 
     <td valign="top">
     <li> Read: "Interview" pg. 39 in  <a href = "http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit (available free online and pinned on slack)</a>
-    <li> <a href="classmate_discovery.md">Classmate Discovery</a></li> 
+    <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
+    <li><a href = "PhotoDiary_problems.md">Photo Diary</a></li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website.</li> 
      <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website.</li>
-     <li><a href="PhotoDiary_problems.md"> Photo Diary</a></li>
      <li>Post your <a href= "constant_input_output.md">constant input/output</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website.</li>
      <li> Watch 3 of your classmates videos/posts for the Care Package assignment. (You may not choose the person from your Classmate Discover Assignment.) Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
     <li> Read - Show Your Work </li>
