@@ -4,7 +4,7 @@
 
 Between weeks 3 - 9, try out each of the time management systems during a weekday, one at a time. Document the method and post it to your Process Site under "time management system". 
 
-Create a written reflection which responds to the following:
+Create a written reflection which responds to the following (post under Responses/Refections, label "Time Management-(specific method)":
 
 * How you approached it: When did you set it up for? How did your structure it? 
 

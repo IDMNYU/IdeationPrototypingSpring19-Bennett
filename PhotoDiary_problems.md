@@ -14,7 +14,7 @@ Take photos which describe this problem. Post them to your process site (under "
 
 ## Part 2:
 
-Is there a particular problem or issue you see in your world that you would like to take a stab at resolving or to explore?
+Is there a particular problem or issue you see in your world that you would like to take a stab at resolving or exploring?
 
 Perhaps it's an inefficiency or accessibility issue, or a societal trend in the wrong direction.
 
