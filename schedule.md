@@ -89,19 +89,23 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li> Present Classmate discovery </li>
 <li>Discuss <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
 <li>Discuss graphic novel, <a href = "https://law.duke.edu/musiccomic/download/">Theft! A History of Music</a> </li>
-<li> Discuss: <a href = "creative_process.md">Creative Process Annotated Bibliography and Video </a></li>
-<li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
+<li> Discuss: <a href = "MidTermProject.md">MidTerm Project </a></li>
+<li><a href="MidTermProject.md">Speed Dating Session</li>
 </td>  
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <ul>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
-     <li><a href = "creative_process.md">CPPABVD: </a>Each student is to create: <br> </li>
+     <li><a href = "MidTermProject.md">Midterm: </a>Each student is to create: <br> </li>
      <ul>
      <li> an individual annotated bibliography</li>
      <li> mood board </li>
-     <li> an image or text storyboard.</li>  </ul>
-     <li>By next week, you should be half way through Show Your Work. If you aren't, get reading.</li>
-    <li> Watch 3 of your classmates videos/posts for the Care Package assignment. (You may not choose the person from your Classmate Discover Assignment.) Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
+     <li> mind map </li>
+     <li> concept map </li>
+     <li> visual research</li>
+     <li> surveys</li>
+     <li> an image storyboard.</li> 
+     <li> posts about what the problem is, as well as findings from research</li> </ul>
+     <li>By next week, you should be half way through Show Your Work. If you aren't, get reading!</li>
     <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
 </td>

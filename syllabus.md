@@ -257,6 +257,7 @@ Context and discussion of each assignment is addressed within the assigned modul
 * [Constant Input/Output Map](constant_i_o.md)
 * [Classmate Discovery](classmate_discovery.md)
 * [Process Website](process_website.md)
+* [MidTerm Project](MidTermProject.md)
 * [Love Letter or Breakup Letter](letter.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
