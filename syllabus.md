@@ -144,7 +144,7 @@ There will be discrete team and individual exercises and projects that require y
 * Attendance is mandatory for the midterm and final presentations / critiques. No exceptions. Critiques can not be made up.
 * Work is still due on due dates, regardless of whether you are in class or not.
 * Material missed is the responsibility of the student to make up. Consult the syllabus. Speak to other classmates in order to find out what was discussed. Speak to several of them and at length.
-
+* If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. A note from her office can excuse absences. 
 
 
 #### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
