@@ -5,7 +5,7 @@
 
 ### Deliverables (post under "midterm" by noon on March 3rd)
 
-* Develop visual research. Immerse yourself in the environment you are working in, to collect information. 
+* Develop visual research. Immerse yourself in the environment you are working in, to collect information:
 
 1. Go to a physical location and sit there quietly for 30 minutes, making note of what you observe. Focus on your visual field, one spot at a time. Pay attention to details! How are people interacting? Notice facial expressions, gestures, and other nonverbal cues.
 2. Write down your observations, starting with the words "I wonder" (e.g., I notice children in the market looking after their siblings; I wonder if this is typical?)
@@ -25,6 +25,7 @@ Add 5 more resources to your annotated bibliography, related to these secondary 
 
 * Draw a new concept map exploring this weeks findings. If you need, create another mind map, exploring your findings. Post it as well as a written reflection. 
 
+* Conduct 6 surveys. Document your process and the findings. Write a blog post, reflecting on what transpired and what your next steps are. Do you need to conduct more surveys? Is there another audience that you need to speak with?
 
 
 #### Project Launch in Week 3: (Previous assignment, kept here for record)
