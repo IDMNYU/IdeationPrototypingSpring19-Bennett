@@ -120,14 +120,13 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <li>Discuss Text vs. Image Storyboard</li>
     <li>Discuss <a href = "https://blog.visualmotive.com/wp-content/uploads/2009/12/mccloud_understanding_comics.jpg">Process</a> and <a href = "http://tinypic.com/view.php?pic=2nrn6t0&s=6#.XE4kQs9KjdQ"> process hierarchy </a></li> 
-    <li> Finalize teams: Swap contact details and schedule times to meet; Discuss and devise actionable tasks</li>
     <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
     <li>Review Homework</li>
     </td>
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "creative_process.md">CPPABVD: </a></li><ul><li>Create Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li> <li>Collaboratively Create outline for the paper </li></ul>
+    <li><a href = "Midterm.md">MidTerm</a></li>
      <li>Watch</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
@@ -137,7 +136,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> Read - Show Your Work </li>
     <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li> </ul>
+    <li><a href="constant_input_output.md">constant input</a></li> </ul>
 </td>
 </tr>
 <tr>
