@@ -126,7 +126,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "Midterm.md">MidTerm</a></li>
+    <li><a href = "MidTermProject.md">MidTerm</a></li>
      <li>Watch</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
@@ -146,7 +146,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td>
     <ul>
     <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
-    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Iterate/Revise outline for the paper </li> 
+    <li><a href = "MidTermProject.md">MidTerm Project </li> 
     <li> Read - Show Your Work </li></ul>
 <li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li></ul>   
     </td>
