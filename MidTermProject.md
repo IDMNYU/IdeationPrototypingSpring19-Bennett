@@ -3,6 +3,45 @@
 
 # MidTerm Project
 
+### Deliverables (post under "midterm" by noon on March 10th)
+
+With ALL of the assigned research thus far completed, add to your research with the following:
+
+
+1. Develop your research into the **secondary topics** that relate to your issue/problem. Switch up your research method. Hit the books and hit the talks/lectures. Add 5 more references to your annotated bibliography, discussing how each relates to your project and ADDS NEW VALUE.
+
+
+2. Surveys: After an inital round of surveys, take what you've discovered and create 3 new surveys. Your questions should demonstrate a deeper understanding and investigation of your topic. Remember to design your questions so that they are not leading, nor communicating judgement. Be open. Have a classmate read over them and critique them.
+
+
+3. Take the new surveys and get 10 new responses from participants that **are not** in the same demographic (ie, not your friends). Diversify your respondent population. 
+
+At least 5 of these surveys must be completed in real time (not asynchronously). Having a conversation with someone allows you to pick up on so much more, than just the simple word. You can notice their body language, expression, and emotion. Make a mental note. An open dialog can uncover much more than a flat response to a question. Document the interview in an audio recording. Post them to your site.
+
+
+4. Post about your new findings from your research and surveys. What did you find? How is your project developing? What goes into creating this situaion? Why do things happen this way?
+
+
+5. Tell a Tale: With all of the above completed, it's now time to formulate a story about what your problem is, how it happens, what factors contribute to the issue (historical, economic, civic, political, governmental, social).
+
+   Great storytellers-writers, filmmakers, designers-imbue empathy by translating characters' stories for others. It's a craft as old as time you can use to build empathy for the people you're designing for.
+
+   * What is the story you want to tell? What did you learn during research that really inspired you? Is it about the daily challenges in someone's life? Is it about the forces that cause this problem? Is it about the effects? Tell the whole story. Write it out.
+
+   * Storyboard this story. Recall what a storyboard is. Look back at module 4. Also check out the graphic novel, <a href = "https://law.duke.edu/musiccomic/download/">Theft! A History of Music</a>. You are communicating the major points to your story, not your story frame by frame. See the templates [here](https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/tree/master/storyboardTemplates)
+
+   Inherent in this is your visual language to tell the story. Think critically about the major points of your story and **HOW** to communicate this story.
+
+   Look at your visual research materials. What can be developed more? What can be used? Do not use photos from a Google Image search. The materials must be from you directly in creation, construction, and composition.
+
+   Use photos, artifacts, and media to create a story that follows a narrative arc-background, conflict, climax, and opportunities for resolution.
+
+   * Post a storyboard draft. Post to your site with captions and a reflection.
+
+   * Develop and iterate this storyboard draft to a much higher quality storyboard. The development and iteration should be noticible. Post to your site with captions and a reflection.
+
+
+
 ### Deliverables (post under "midterm" by noon on March 3rd)
 
 * Develop visual research. Immerse yourself in the environment you are working in, to collect information:

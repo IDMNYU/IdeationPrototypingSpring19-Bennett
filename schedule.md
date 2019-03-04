@@ -144,11 +144,11 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <td>
-    <ul>
-    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
-    <li><a href = "MidTermProject.md">MidTerm Project </li> 
-    <li> Read - Show Your Work </li></ul>
-<li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li></ul>   
+    <li><a href="MidTermProject.md">
+    MidTerm Project: Research + Tell a Tale. </li> 
+    <li><a href="constant_input_output.md">constant input/output</a></li>
+    <li> Read - Show Your Work </li>. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/Book_Reflections.md">Post your reflections </a> to your Process site.</ul>
+<li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
     </td>
 </tr>
 <tr> 
