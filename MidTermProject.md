@@ -25,7 +25,7 @@ Consider 3-D printing them, or taking them into another material, such as wood, 
 
 Visit the [Tandon Maker Center](http://makerspace.engineering.nyu.edu/) and check out details about [training here](http://makerspace.engineering.nyu.edu/training/)
 
-If none of your prototypes have a physical form, develop high-level wireframes that describe the system and user experience.
+If none of your prototypes have a physical form, develop refined high-level wireframes that describe the system and user experience.
 
 Document your prototypes, process, construction, and any Maker Center activity. Post these to your site, along with a reflection on how your midterm project has developed or been impacted by this process. What has changed?
 
