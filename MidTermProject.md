@@ -5,11 +5,27 @@
 
 ### Deliverables (post under "midterm" by noon on March 24th)
 
+0. Think of something that you could make, relevant to your project. It does not have to emcompass your entire project. Perhaps it is an aspect of your project. For example, you are looking into body image through media. Perhaps you prototype a plug-in to translate images from the web, to be more realistic. Your prototype discusses and indicates how this works.
+
+It can even be illogical, bad idea. For example, perhaps you are looking at how filter bubbles warp our perception. Perhaps you prototype a dome that goes over your modem, swapping out disparate viewpoints for ones that align with your perceptions.
+
+These can be far-fetched, whimisical, futuristic, and wacky. The point is to be free to explore your project through different lenses. As well as to explore possible solutions.
+
+Spend 10 minutes illustrating this prototype. Use paper and pencil. Snap images of this and post to your process site. Spend no more than ten minutes.
+
+Repeat this process for a total of 10 prototypes.
+
+These prototypes can (and should) be different aspects of your project. Some of them should be iterations of other prototypes. A few of these should be bad ideas, ie, things that help your problem grow and continue.
+
+
+
 1. Prototype: Pick 1-2 of your physical prototypes developed in class, and refine them through additional iterations. Refine their visuals, purpose, function, useage. 
 
 Consider 3-D printing them, or taking them into another material, such as wood, fabric, metal, plastics, etc. How does a different material change things? Does it change the experience? How so?
 
 Visit the [Tandon Maker Center](http://makerspace.engineering.nyu.edu/) and check out details about [training here](http://makerspace.engineering.nyu.edu/training/)
+
+If none of your prototypes have a physical form, develop high-level wireframes that describe the system and user experience.
 
 Document your prototypes, process, construction, and any Maker Center activity. Post these to your site, along with a reflection on how your midterm project has developed or been impacted by this process. What has changed?
 
@@ -26,7 +42,7 @@ Document your prototypes, process, construction, and any Maker Center activity. 
 
 4. Put the flyer in the hands of your users or colleagues. What feedback did they give you? What did they think about your product or service? Write a reflection post to your process site, detailing the findings.
 
-5. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration.
+5identifying. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration.
 
 This story must show evidence of your research and secondary topics. Great strides from your inital iteration are expected. 
 
