@@ -3,6 +3,39 @@
 
 # MidTerm Project
 
+### Deliverables (post under "midterm" by noon on March 24th)
+
+1. Prototype: Pick 1-2 of your physical prototypes developed in class, and refine them through additional iterations. Refine their visuals, purpose, function, useage. 
+
+Consider 3-D printing them, or taking them into another material, such as wood, fabric, metal, plastics, etc. How does a different material change things? Does it change the experience? How so?
+
+Visit the [Tandon Maker Center](http://makerspace.engineering.nyu.edu/) and check out details about [training here](http://makerspace.engineering.nyu.edu/training/)
+
+Document your prototypes, process, construction, and any Maker Center activity. Post these to your site, along with a reflection on how your midterm project has developed or been impacted by this process. What has changed?
+
+
+2. Fly Flyer: Capture the essence of your product or service with a snappy, beautiful brochure. Test it out and see what people think of it.
+
+* Fold a piece of paper into thirds or whatever your heart desires!
+
+* Think about the flow of information. What's the first, attention-grabbing thing someone should know? Write a catchy brochure title and sketch out an image to go along with it. In the interior, write descriptions of the key features of your product or service.
+
+* Include a call to action for the brochure user. Should they visit your website? Call a number? Think about what people would want or need to do next. (This does not need to be, nor should it be, a service or product currently existing. This is a new thing, yet-to-be-created).
+
+3. Created a polished iteration of the flyer, that is with a higher craft. Post all iterations to your process site.
+
+4. Put the flyer in the hands of your users or colleagues. What feedback did they give you? What did they think about your product or service? Write a reflection post to your process site, detailing the findings.
+
+5. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration.
+
+This story must show evidence of your research and secondary topics. Great strides from your inital iteration are expected. 
+
+High craft is expected here! There are many different ways to go about this. Find the one that works for you and refine it.
+
+Use photos, artifacts, and media to create a story that follows a narrative arc-background, conflict, climax, and opportunities for resolution.
+
+
+
 ### Deliverables (post under "midterm" by noon on March 10th)
 
 With ALL of the assigned research thus far completed, add to your research with the following:
@@ -26,7 +59,7 @@ At least 5 of these surveys must be completed in real time (not asynchronously).
 
    Great storytellers-writers, filmmakers, designers-imbue empathy by translating characters' stories for others. It's a craft as old as time you can use to build empathy for the people you're designing for.
 
-   * What is the story you want to tell? What did you learn during research that really inspired you? Is it about the daily challenges in someone's life? Is it about the forces that cause this problem? Is it about the effects? Tell the whole story. Write it out.
+   * What is the story you want to tell? What did you learn during research that really inspired you? What is it about the daily challenges in someone's life? What are the forces that cause this problem? What are the effects? Tell the whole story. Write it out.
 
    * Storyboard this story. Recall what a storyboard is. Look back at module 4. Also check out the graphic novel, <a href = "https://law.duke.edu/musiccomic/download/">Theft! A History of Music</a>. You are communicating the major points to your story, not your story frame by frame. See the templates [here](https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/tree/master/storyboardTemplates)
 
