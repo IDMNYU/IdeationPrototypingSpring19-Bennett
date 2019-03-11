@@ -5,7 +5,7 @@
 
 ### Deliverables (post under "midterm" by noon on March 24th)
 
-0. Think of something that you could make, relevant to your project. It does not have to emcompass your entire project. Perhaps it is an aspect of your project. For example, you are looking into body image through media. Perhaps you prototype a plug-in to translate images from the web, to be more realistic. Your prototype discusses and indicates how this works.
+1. Think of something that you could make, relevant to your project. It does not have to emcompass your entire project. Perhaps it is an aspect of your project. For example, you are looking into body image through media. Perhaps you prototype a plug-in to translate images from the web, to be more realistic. Your prototype discusses and indicates how this works.
 
 It can even be illogical, bad idea. For example, perhaps you are looking at how filter bubbles warp our perception. Perhaps you prototype a dome that goes over your modem, swapping out disparate viewpoints for ones that align with your perceptions.
 
@@ -19,7 +19,7 @@ These prototypes can (and should) be different aspects of your project. Some of 
 
 
 
-1. Prototype: Pick 1-2 of your physical prototypes developed in class, and refine them through additional iterations. Refine their visuals, purpose, function, useage. 
+2. Prototype: Pick 1-2 of your physical prototypes developed in class, and refine them through additional iterations. Refine their visuals, purpose, function, useage. 
 
 Consider 3-D printing them, or taking them into another material, such as wood, fabric, metal, plastics, etc. How does a different material change things? Does it change the experience? How so?
 
@@ -30,19 +30,7 @@ If none of your prototypes have a physical form, develop high-level wireframes t
 Document your prototypes, process, construction, and any Maker Center activity. Post these to your site, along with a reflection on how your midterm project has developed or been impacted by this process. What has changed?
 
 
-2. Fly Flyer: Capture the essence of your product or service with a snappy, beautiful brochure. Test it out and see what people think of it.
-
-* Fold a piece of paper into thirds or whatever your heart desires!
-
-* Think about the flow of information. What's the first, attention-grabbing thing someone should know? Write a catchy brochure title and sketch out an image to go along with it. In the interior, write descriptions of the key features of your product or service.
-
-* Include a call to action for the brochure user. Should they visit your website? Call a number? Think about what people would want or need to do next. (This does not need to be, nor should it be, a service or product currently existing. This is a new thing, yet-to-be-created).
-
-3. Created a polished iteration of the flyer, that is with a higher craft. Post all iterations to your process site.
-
-4. Put the flyer in the hands of your users or colleagues. What feedback did they give you? What did they think about your product or service? Write a reflection post to your process site, detailing the findings.
-
-5identifying. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration.
+3. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration.
 
 This story must show evidence of your research and secondary topics. Great strides from your inital iteration are expected. 
 
