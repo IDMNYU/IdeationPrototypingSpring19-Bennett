@@ -158,11 +158,11 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong> Phase 4: Prototyping </strong> <br> Review Homework</td>
     <td valign="top">
     <ul>
-    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
-    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details. Post to your process website.</li>
-    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul>
-    <li>Collaboratively iterate hybrid animatic/video draft</li>
-    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) CPPABVD project </li>
+    <li> <a href="constant_input_output.md">constant input/output</a></li>
+    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details. </li>
+   <li><a href="MidTermProject.md">
+    MidTerm Project: Tell a Tale + Refine your Prototypes </li> 
+    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) MidTerm project alone </li>
     <li> Finish - Show Your Work </li>
     <li> Post your sketchbook work to your Process site </li>
     </ul> <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
@@ -174,13 +174,12 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 7<p>March 25</p></td>     
-    <td valign="top"><strong> Phase 4: Prototyping </strong> <br>Review Homework</td>
+    <td valign="top"><strong> MidTerm Critique + Review</td>
     <td valign="top">
-    <ul>
-    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
-    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively iterate and finalize hybrid animatic/video</li></ul>
+    <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
+     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     </ul>   
     </td>
 </tr>
@@ -189,7 +188,6 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong>Last Day to drop is April 5th. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
     <td valign="top">
     <ul>
-    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
       <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
     <li> Create each of the following with regard to the final project, and post to your process site under the heading/tag/page for your final project: Future:
