@@ -117,7 +117,7 @@ There will be discrete team and individual exercises and projects that require y
 * Study outside of class (ideally with classmate(s)
 * Devote at a minimum 6 - 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least once a week for up to date info
-* Complete all assignments by due dates
+* Complete all assignments by due dates, posting it to their process site and check their site from another browser to ensure that the work is visible.
 * Acquire and read all assigned readings before they are due
 * Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
 * Action – do your absolute best
@@ -190,6 +190,22 @@ Laptop computers and other mobile devices are invaluable tools for artists, desi
 When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
 
 Be forewarned, that if you are chronically in your devices and not participating in conversation, you will be called upon. Class is a community.
+
+#### Late Work
+
+Late work is not accepted, as this course is about process, namely, regularly weekly development of projects and assignments. Assignments are assigned a key points within the semester, to be timed with the students development. Doing the assignments out of rhythm, defeats the entire point. Time cannot be made up, nor can we go back in time.
+
+Process sites are reviewed and assessed weekly.
+
+Late work is submitted only under the advisement of the professor.  
+
+##### Lare work regarding the midterm and final project:
+
+These are large projects which develop over _a series of 4-5 weeks_. Each week they are assessed for their development and strides from the previous weeks. As with any process, time inbetween completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless to here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
+
+If the work is 1 week late, the grade is dropped one letter grade after it's assessed. Each additional week drops the grade 2 letter grades per week.
+
+The lowest possible grade is an F, provided there is work to assess. If there is no work to assess, a zero (0) will be given.
 
 
 ### ACADEMIC HONESTY
