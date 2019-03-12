@@ -191,7 +191,7 @@ When in class, you may use your laptops and other devices for any activities per
 
 Be forewarned, that if you are chronically in your devices and not participating in conversation, you will be called upon. Class is a community.
 
-#### Late Work
+### Late Work
 
 Late work is not accepted, as this course is about process, namely, regularly weekly development of projects and assignments. Assignments are assigned a key points within the semester, to be timed with the students development. Doing the assignments out of rhythm, defeats the entire point. Time cannot be made up, nor can we go back in time.
 
@@ -199,7 +199,7 @@ Process sites are reviewed and assessed weekly.
 
 Late work is submitted only under the advisement of the professor.  
 
-##### Lare work regarding the midterm and final project:
+##### Late work regarding the midterm and final project:
 
 These are large projects which develop over _a series of 4-5 weeks_. Each week they are assessed for their development and strides from the previous weeks. As with any process, time inbetween completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless to here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
 
