@@ -162,7 +162,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details. </li>
    <li><a href="MidTermProject.md">
     MidTerm Project: Tell a Tale + Refine your Prototypes </li> 
-    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) MidTerm project alone </li>
+    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) MidTerm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
     <li> Finish - Show Your Work </li>
     <li> Post your sketchbook work to your Process site </li>
     </ul> <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
