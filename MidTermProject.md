@@ -30,11 +30,11 @@ If none of your prototypes have a physical form, develop refined high-level wire
 Document your prototypes, process, construction, and any Maker Center activity. Post these to your site, along with a reflection on how your midterm project has developed or been impacted by this process. What has changed?
 
 
-3. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration.
+3. Storyboard: Develop your storyboard to show depth of topic, developments from the last iteration. Include your prototype. How does your story help to tell the tale of the problem, as well as the impact of your solution? Explore your solution through the narrative.
 
-This story must show evidence of your research and secondary topics. Great strides from your inital iteration are expected. 
+This story must show evidence of your research and secondary topics. Great strides from your last iteration are expected. 
 
-High craft is expected here! There are many different ways to go about this. Find the one that works for you and refine it.
+High craft is expected here! There are many different ways to go about this. Find the one that works for you and *refine it*.
 
 Use photos, artifacts, and media to create a story that follows a narrative arc-background, conflict, climax, and opportunities for resolution.
 
