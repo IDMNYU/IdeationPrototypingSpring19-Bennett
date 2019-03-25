@@ -3,6 +3,17 @@
 
 # MidTerm Project
 
+### Deliverables (post under "midterm" by noon on April 1st)
+
+*Each of these is to be a polished, demonstrating a high level of craft, as well as detail that demonstrated your research, developments, and iterations:*
+
+1. Finish the [Dating Profile](DatingProfile.md) of your product or service. 
+
+2. Iterate your prototype, given your process thus far. If you want, develop a new prototype if you have new developments or leads.
+
+3. Finish the [brochure or webpage](Brochure.md) of your product or service. 
+
+
 ### Deliverables (post under "midterm" by noon on March 24th)
 
 1. Think of something that you could make, relevant to your project. It does not have to emcompass your entire project. Perhaps it is an aspect of your project. For example, you are looking into body image through media. Perhaps you prototype a plug-in to translate images from the web, to be more realistic. Your prototype discusses and indicates how this works.

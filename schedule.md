@@ -176,11 +176,13 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">wk 7<p>March 25</p></td>     
     <td valign="top"><strong> MidTerm Critique + Review</td>
     <td valign="top">
+    <li><a href="MidTermProject.md">
+    MidTerm Project: Refined Prototypes, Profiles + Flyer/Site </a>. This is the culmination of your midterm.</li>
     <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li> Read the recent Letters to the Next Cohort (found in Slack). Write a reflection, identifying key points that resonate with you. Post this to your process site </li> 
-     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
+     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. This needs to be something that you have a significant attachement to and something that consumes time/energy. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     </ul>   
     </td>
 </tr>
