@@ -11,7 +11,7 @@
 
 2. Iterate your prototype, given your process thus far. If you want, develop a new prototype if you have new developments or leads.
 
-3. Finish the [brochure or webpage](Brochure.md) of your product or service. 
+3. Finish the [brochure or webpage](Brochure.md) of your product or service. This should include your refined prototype.
 
 
 ### Deliverables (post under "midterm" by noon on March 24th)
