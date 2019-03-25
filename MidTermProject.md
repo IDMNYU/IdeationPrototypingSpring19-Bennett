@@ -9,7 +9,7 @@
 
 1. Finish the [Dating Profile](DatingProfile.md) of your product or service. 
 
-2. Iterate your prototype, given your process thus far. If you want, develop a new prototype if you have new developments or leads.
+2. Iterate your prototype, given your process thus far. If you want, develop a new prototype if you have new developments or leads. Post documentation to your process site. Bring your prototype to class next week.
 
 3. Finish the [brochure or webpage](Brochure.md) of your product or service. This should include your refined prototype.
 
