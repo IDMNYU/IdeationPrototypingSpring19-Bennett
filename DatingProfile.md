@@ -11,4 +11,4 @@ This exercise is a playful way to nail down the essence of your ides, product or
 3. Get feedback from your team!
 
 
-4. Create a polished persona or a profile page of your product for homework and post about the process to your process site.
+4. Create a polished persona or a profile page of your product for homework and post about the process to your process site. 

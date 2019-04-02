@@ -279,6 +279,7 @@ Context and discussion of each assignment is addressed within the assigned modul
 * [Self Assessments](self_assessments.md) 
 * [Time Management System](time_management_system.md)
 * [Book Reflections: Show Your Work & Don't Read This Book](Book_Reflections.md)
+* [Future Project](future.md)
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix
