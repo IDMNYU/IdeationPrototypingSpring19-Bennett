@@ -207,7 +207,7 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
             <li> Going further for extra credit: Develop a 150 Word List, further exploring your developments and ideas.
             </li>
             <li>
-                Create a post that is a written statement regarding what your Future project is going to be about. What is the story? What is the message? What are some possible  objects? What are some possible the delivery mediums?
+                Create a post that is a written statement regarding what your Future project is going to be about. What is the story? What is the message? What are some possible  objects?
             </li>
             </ul>
         </li>
