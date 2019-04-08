@@ -6,6 +6,8 @@
 Get out of your laptop. Go to the library, book store, video bank, musuem, hear a talk, listen to the radio, read a newspaper, go deep into research journals!!
 
 
+0. Post the outcome from the [Headlines From The Future Exercise](HeadlinesFromTheFuture.md). Reflect on the feedback given from class. What questions need to be resolved? What feedback was given?
+
 
 1. Create an annotated bibliography with 8 different source topics. The annotation needs to detail how this source topic fits in as well as what this source provides. Why is this source useful?
 
