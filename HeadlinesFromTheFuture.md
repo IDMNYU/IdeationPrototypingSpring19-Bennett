@@ -15,3 +15,7 @@ What would the stories be that describe:
 
 - What are some mechanics that make this world work?
 
+
+Moodboard: Collect images and visuals that describe this world.
+
+Then, add these along with your headlines into the Newspaper (Indesign file).
