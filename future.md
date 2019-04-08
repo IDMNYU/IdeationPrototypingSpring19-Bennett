@@ -48,4 +48,4 @@ I suggest brainstorming one or more of the following themes to get you started, 
 *   Technology
 *   Time
 
-
+[Weekly Brief](Future_weeklyBrief.md)

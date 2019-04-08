@@ -219,19 +219,13 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 9<p>April 8</p></td>
-    <td valign="top">Review Homework</td>    
+    <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
-    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site.</li> 
-    <ul>
-    <li>Ideation continued</li>
-    <li>Storytelling</li>
-    <li>Sketching and Mapping</li>
-    <li>Secondary Research</li>
-    </ul>
+    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of <a href = "Future_weeklyBrief.md">this week's process and developments </a>to your Process site.</li> 
     <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li>By next week, you should be half way finished reading - Don't Read This Book </li><li> Post your sketchbook work to your Process site </li></ul>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System - re-do methods incorrectly; Or be working in youor defined system. Reflect on what's working + not working.</a></li>
     </td>
 </tr>
 <tr>
