@@ -4,7 +4,9 @@
 
 - [Review the main assignment brief to ensure that you are within it.](future.md)
 
-0. Post the outcome of the prototyping exercise. Write a reflection on what came out of it, that was unforseen. Also discuss where this goes next, which ones are you moving forward with and why.
+0. Do 2 more additional prototyping sessions on paper. For each spend on 10 minutes creating this prototype through sketching. Close your laptop. These prototypes are to be something in your future. They could be suggestions from the feedback session, something that has been in your mind, or iterations (with developments and refinements) of previous prototyping sessions. These sessions are meant to be free, experimental and fast. Let your mind run!
+
+Post the outcome of the prototyping exercise. Evident on your site should be AT LEAST 4 prototypes. Write a reflection on what came out of it, that was unforseen. Also discuss where this goes next, which ones are you moving forward with and why.
 
 
 1. Refine your chosen prototype with another iteration through a different medium/material. Refer to Module 9. Document your process. Post images with a reflection.
