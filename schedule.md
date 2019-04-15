@@ -235,14 +235,8 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>    
     <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
-     <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
-    <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
-    <ul>
-    <li>Storyboard Draft</li>
-    <li>Lo-fi Prototype Draft</li>
-    <li>Iterate Sketching and Mapping</li>
-    <li>Secondary Research</li>
-    </ul>
+     <li> <a href = "narrative_timeline.md">Create a draft timeline for your Future Project </a></li>
+   Post evidence of <a href = "Future_weeklyBrief.md">this week's process and developments </a>to your Process site.</li> 
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
     </td>

@@ -1,3 +1,20 @@
+### Future Project Week 3: Prototype + Refine Narrative
+
+#### Due Noon April 21st (process site: final project):
+
+- [Review the main assignment brief to ensure that you are within it.](future.md)
+
+0. Post the outcome of the prototyping exercise. Write a reflection on what came out of it, that was unforseen. Also discuss where this goes next, which ones are you moving forward with and why.
+
+
+1. Refine your chosen prototype with another iteration through a different medium/material. Refer to Module 9. Document your process. Post images with a reflection.
+
+
+2. Post a draft of the [narrative timeline](narrative_timeline.md). Refine your research, seeking out new research as needed. No holes should be evident, and your story must make sense.
+
+
+3. Ideate on possible delivery methods via a mind map. Your delivery methods should be diverse. Think about your future and what would be a fitting medium to describe this world. There should be a connection point between the content of your Future and the delivery method. Henceforth, ideate to uncover new possibilities. Post the map(s) and a reflection to your site.
+
 
 ### Future Project Week 2: Refine Idea + Research
 

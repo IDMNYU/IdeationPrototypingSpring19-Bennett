@@ -8,12 +8,18 @@
 As research for your future utopia / dystopia project, create an evolution timeline by making one of the following:
 
 *   an infographic as a pdf (post on your process website) **OR** 
-*	another video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process website **OR** 
+*	a video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process website **OR** 
 *	an interactive data visualization and embed within your process website.
 
-The timeline should reflect:
-* an object or experience that relates to your framing story or message for your future Dystopia / Utopia project 
+The timeline should:
+* show a narrative timeline thread of influences, demonstrated over at least three iterations.
+* demonstrate the framing of your story. How did this world come to be what it is?
+* show evidence of your research, including secondary topics
+* have your object somewhere within it
 
-In other words, show the past history of an existing object or experience (as in how it evolved from when it was first made to how it is now). The timeline should contain **at least** 3 iterations if not more.
+
+In other words, show the past history of this future, as well as where it's at currently.
+
+The timeline should contain **at least** 3 iterations if not more.
 
 Post the timeline to your Process site
