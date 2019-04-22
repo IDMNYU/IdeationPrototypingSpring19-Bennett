@@ -246,15 +246,9 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
-    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
+    <li> <a href="constant_input_output.md">constant input/object: Prepare for presentation in class next week. 5 minute presenation. </a></li>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
-        <ul>
-        <li>Storyboard Revision</li>
-        <li>Iterate Sketching and Mapping</li>
-        <li>Secondary Research</li>
-        <li>Iterate Lo-fi Prototype Delivery medium</li>
-        <li>Iterate Lo-fi Prototype Draft</li>
-        </ul>
+      <li>Post evidence of your <a href = "Future_weeklyBrief.md">Future project's developments</a> for this week to your Process site.</li> 
         <li> Read - Don't Read This Book </li>
         <li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>

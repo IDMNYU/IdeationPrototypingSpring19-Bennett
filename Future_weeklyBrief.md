@@ -1,3 +1,20 @@
+### Future Project Week 4: Prototype + Refine Narrative
+
+#### Due Noon April 28st (process site: final project):
+
+0. Research and collect additional information to help your project. Post an annotated bibliography with the new sources.
+
+1. Create an iteration of your Narrative Time. This iteration must be of a higher craft in it's visual execution and be much more polished. It must also show evidence of your research, demonstrated throughout the specifics of your narrative.
+
+2. Sketch our your *delivery medium* in several sketchs. Then create a low-fi draft of your delivery medium. Develop/collect your assets. Show evidence of this all on your site.
+
+
+3. Create a refined prototype of your Future object. Post not only the result, but the process of generating it on your site.
+
+
+4. Write a reflection about the newest developments and what this means for your project. Identify where you are struggling and need feedback.
+
+
 ### Future Project Week 3: Prototype + Refine Narrative
 
 #### Due Noon April 21st (process site: final project):
