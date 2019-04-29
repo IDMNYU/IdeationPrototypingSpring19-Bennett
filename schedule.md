@@ -256,16 +256,13 @@ Schedule: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 12<p>April 29</p></td>
-    <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td> 
+    <td valign="top">Review Homework <br> <strong>Review Constant Input/Output projects Projects </strong></td> 
     <td valign="top">
     <ul>
    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
-    <ul>
-    <li>Hi-Fidelity Prototype Draft</li>
-    <li>Hi-Fidelity Prototype Delivery medium</li>
-    </ul>
+    <li>Post evidence of your <a href = "Future_weeklyBrief.md">Future project's developments</a> for this week to your Process site.</li> 
+        <li> Read - Don't Read This Book </li>
     <li> Finish Reading - Don't Read This Book </li>
-    <li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
     </td>
 </tr>
