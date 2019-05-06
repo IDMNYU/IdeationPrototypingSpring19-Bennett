@@ -1,3 +1,16 @@
+### Future Project Week 5: Final Presentations
+
+#### Due Noon May 12th (process site: final project):
+
+0. Final iteration of future physical object
+
+1. Final iteration of delivery medium
+
+2. Compile your sources and annotations into one annotated bibliography
+
+3. Create a 5 minute presentation of your delivery medium and object. Design this presentation. Do not make it up on the fly. The quality and creativity of your presentation will be assessed. As a result, practice this presentation!
+
+
 ### Future Project Week 4: Prototype + Refine Narrative
 
 #### Due Noon May 5th (process site: final project):
